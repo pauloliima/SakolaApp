@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/produtos">
+
+    <fragment
+        android:id="@+id/faturamento"
+        android:name="com.example.sakolaapp.ui.faturamento.Faturamento"
+        android:label="Faturamento"
+        tools:layout="@layout/faturamento_fragment" />
+    <fragment
+        android:id="@+id/estoque"
+        android:name="com.example.sakolaapp.ui.estoque.Estoque"
+        android:label="Estoque"
+        tools:layout="@layout/estoque_fragment" />
+    <fragment
+        android:id="@+id/pedidos"
+        android:name="com.example.sakolaapp.ui.pedidos.Pedidos"
+        android:label="Pedidos"
+        tools:layout="@layout/pedidos_fragment" />
+    <fragment
+        android:id="@+id/produtos"
+        android:name="com.example.sakolaapp.ui.produtos.Produtos"
+        android:label="Produtos"
+        tools:layout="@layout/produtos_fragment" />
+</navigation>
