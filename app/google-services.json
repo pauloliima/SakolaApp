@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "960018122196",
-    "project_id": "sakolaapp-3f8a6",
-    "storage_bucket": "sakolaapp-3f8a6.appspot.com"
+    "project_number": "158383220432",
+    "project_id": "ope-sakolaapp-impacta",
+    "storage_bucket": "ope-sakolaapp-impacta.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:960018122196:android:f358c6fe4b2effa6af4241",
+        "mobilesdk_app_id": "1:158383220432:android:5ff964d125ce9461d920d5",
         "android_client_info": {
           "package_name": "com.example.sakolaapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "960018122196-d4c9n1kn58ea8i3bsjbkfmu9jm0q6ftr.apps.googleusercontent.com",
+          "client_id": "158383220432-3n8r6r5ktmp0hopi3qhv94290teeh2ha.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.sakolaapp",
-            "certificate_hash": "e49a77c767e5c217540d9809c7cfcf16aa98f149"
+            "certificate_hash": "7e7372c022720fc70a448d7defc28248faf59458"
           }
         },
         {
-          "client_id": "960018122196-v424e492vg9mlceejjs06t7tu9eq57dm.apps.googleusercontent.com",
+          "client_id": "158383220432-50rqmbtcel8a1dg90645mj0a3lub61go.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCedyxmzBXU2TQkX8WfVgloLwOVNt07XG8"
+          "current_key": "AIzaSyCqxi2eDiM4FtfFXsQORb5IdktK0fgf2uY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "960018122196-v424e492vg9mlceejjs06t7tu9eq57dm.apps.googleusercontent.com",
+              "client_id": "158383220432-50rqmbtcel8a1dg90645mj0a3lub61go.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
